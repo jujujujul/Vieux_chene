@@ -7957,9 +7957,7 @@ Last change:	04/30/2017
 }
 /*** 2. Section: Info ***/
 .section__info {
-  height: 45px;
   background-color: #fff;
-  border-bottom: 1px solid rgba(215, 215, 215, 0.5);
   z-index: 999;
 }
 .section__info .section_info__body {
@@ -11329,4 +11327,8 @@ Last change:	04/30/2017
   .section_layouts-footer {
     padding: 20px 0;
   }
+}
+
+.section_info{
+
 }
